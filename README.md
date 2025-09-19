@@ -10,7 +10,7 @@ This tool:
 - Generates TradingView watchlist files with correct exchange prefixes
 - Updates in real-time - always get the current tradeable pairs
 
-**Currently supported:** Binance Spot, Kraken Spot  
+**Currently supported:** Binance Spot, Kraken Spot
 **Future updates:** More exchanges can be added based on demand
 
 ## ✨ Key Features
