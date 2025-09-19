@@ -25,3 +25,9 @@ This tool:
 
 ### Installation
 ```bash
+# Clone repository
+git clone https://github.com/gaborkis11/tradingview-watchlist-importer.git
+cd tradingview-watchlist-importer
+
+# Install dependencies
+pip install -r requirements.txt
